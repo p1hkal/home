@@ -31,6 +31,3 @@ Zero trust model, trust no one but me,
 From Edge to the Core, as secure as can be.
 IAM roles, permission's precise,
 Try to break in, you're rollin' the dice.
-
-    $ ls
-    home.md
